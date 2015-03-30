@@ -14,8 +14,8 @@ Within this repository are some static assets necessary to display a simple HTML
 2. Make the scrolling list resize as the windows resized.
 3. Create a handle/tab attached to the scrolling list, that when clicked, displays or hides the list accordingly.
 4. Replace the default scrolling bar of the list with slimScroll (already included in this repository).
-5. **(OPTIONAL)** Profile the overall loading speed of the page using Google Chrome's DevTools. Give us your analysis of the results.
-6. **(OPTIONAL)** Optimize the critical rendering path and loading speed using the results you obtained.
+5. Profile the overall loading speed of the page using Google Chrome's DevTools. Give us your analysis of the results.
+6. Optimize the critical rendering path and loading speed using the results you obtained.
 
 So to get things started, do the following:
 
