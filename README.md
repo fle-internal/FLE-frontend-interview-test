@@ -29,7 +29,7 @@ That's it! We'll review your code soon and get back to you once we're done!
 
 
 Here's a list of resources that you may find useful:
-- [Bootstrap components(http://getbootstrap.com/components/)
+- [Bootstrap components](http://getbootstrap.com/components/)
 - [slimScroll reference](http://rocha.la/jQuery-slimScroll)
 - [Chrome DevTools network profiling reference](https://developer.chrome.com/devtools/docs/network)
 - [What is the critical rendering path?](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
